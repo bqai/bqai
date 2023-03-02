@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bqai
-- 👀 I’m interested in deveploing calssical and quantum machine learning software.
+- 👀 I’m interested in deveploing classical and quantum machine learning software.
 
 
 <!---
